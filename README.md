@@ -70,3 +70,15 @@ Ok im out.
 
 
  L'ennui dans ce monde, c'est que les idiots sont sûrs d'eux et les gens sensés pleins de doutes.
+
+Here we go
+
+Once upon a time not long ago
+
+When people wore pajamas and lived life slow
+
+When laws were stern and justice stood
+
+And people were behavin' like they ought ta good
+
+There lived a lil' boy who was misled
