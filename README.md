@@ -86,3 +86,11 @@ There lived a lil' boy who was misled
 # Im just making a mess on everyones repository.
 ## Because i don't understand the exercise very wel.
 ### I hope i'm doing it right.
+
+
+
+#### Yeah same here ####
+
+Maurice and i are working on this together but ...
+
+We can't seem to completely understand what we're doing...
