@@ -50,3 +50,8 @@ Master and branches power
 >>>>>>> 7d3bba82a2befdeedb6eeb710cf124e8e45b30a8
 
 PUSH IT TO THE LIMIT
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
