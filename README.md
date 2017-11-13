@@ -23,6 +23,17 @@ Here and there over the grass stood beautiful flowers like stars,
 ## En vaak denk ik aan vroeger, ik weet waar het begon
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
 
+<<<<<<< HEAD
+
+I learned everything that cheat sheets and other sites taught me.
+
+I tried over and over but bugs were everywhere.
+
+I worked hours over an exquisite corpse and finally learned it.
+
+Lol
+
+=======
 *All you need is love love love
 Love is all you need*
 
@@ -36,5 +47,6 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
+>>>>>>> 7d3bba82a2befdeedb6eeb710cf124e8e45b30a8
 
 PUSH IT TO THE LIMIT
