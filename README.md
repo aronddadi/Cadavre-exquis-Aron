@@ -30,3 +30,9 @@ Love is all you need*
 _In your stupid repo._
 *Really not,i'm not a sheep*
 >>>>>>> 25a4272c9c4648dae3d0fd0b425dba047079916d
+
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
