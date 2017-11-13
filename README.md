@@ -63,3 +63,7 @@ Ok im out.
 ### coucou
 ### petite
 ### perruche
+
+ In westmael, born and raised.
+ On the Pub was where I spent most of my days.
+ Chillin' out drinkin' all cool.
