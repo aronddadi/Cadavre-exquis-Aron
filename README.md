@@ -56,6 +56,10 @@ There once was an andoid named _2B_
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 
+Who's yo daddy? Its Aron Ddadi
+
+Ok im out.
+
 ### coucou
 ### petite
 ### perruche
