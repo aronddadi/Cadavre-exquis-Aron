@@ -67,3 +67,6 @@ Ok im out.
  In westmael, born and raised.
  On the Pub was where I spent most of my days.
  Chillin' out drinkin' all cool.
+
+
+ L'ennui dans ce monde, c'est que les idiots sont sûrs d'eux et les gens sensés pleins de doutes.
