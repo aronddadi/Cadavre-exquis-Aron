@@ -96,3 +96,6 @@ Maurice and i are working on this together but ...
 We can't seem to completely understand what we're doing...
 
 J'apprend à utiliser Kraken
+
+“It’s not dying that you need to be afraid of. It’s not having lived in the first place.”
+– Britt Reid, The Green Hornet
