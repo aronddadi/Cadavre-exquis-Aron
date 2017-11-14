@@ -6,8 +6,7 @@ Now [This](https://www.youtube.com/watch?v=1nCqRmx3Dnw) is a story all about how
 My life got flipped turned upside down ,
 
 And I'd like to take a minute , just sit right there  
-<<<<<<< HEAD
-=======
+
 
 I'll tell you how I became the prince
 
@@ -23,7 +22,7 @@ Here and there over the grass stood beautiful flowers like stars,
 ## En vaak denk ik aan vroeger, ik weet waar het begon
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
 
-<<<<<<< HEAD
+
 
 I learned everything that cheat sheets and other sites taught me.
 
@@ -33,7 +32,7 @@ I worked hours over an exquisite corpse and finally learned it.
 
 Lol
 
-=======
+
 *All you need is love love love
 Love is all you need*
 
